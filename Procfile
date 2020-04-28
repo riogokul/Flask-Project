@@ -1,1 +1,1 @@
-web: gunicorn flask_new.wsgi
+web: gunicorn app=app
