@@ -1,2 +1,4 @@
 # Flask-Project
-My first flask web app
+
+Blog Application
+
